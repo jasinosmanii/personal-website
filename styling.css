@@ -1,0 +1,391 @@
+body{
+    font-family: "Britannic Bold";
+    background-color: lavender;
+    background-image: url("background4.png");
+    border-image-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+
+}
+.first-menu-beg{
+    background-color: midnightblue;
+    text-align: center;
+    color: white;
+    border: solid;
+    border-radius: 15px;
+    margin-top: 0;
+    border-color: white;
+
+}
+.first-menu{
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+.first-h1{
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    font-size: xx-large;
+    margin-bottom: 0;
+    margin-top: 0;
+    border-radius: 20px;
+    border-color: black;
+}
+.jasin{
+    width: 400px;
+    height: 380px;
+    border: solid;
+    border-color: midnightblue;
+    border-radius: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.beginning{
+    display: flex;
+    justify-content: space-evenly;
+    position: static;
+    margin-top: 5px;
+}
+.hi-im-jasin{
+    font-size: xxx-large;
+    background-color: white;
+    padding-left: 90px;
+    padding-top: 40px;
+    padding-right: 80px;
+    border: ridge;
+    border-color: midnightblue;
+    border-width: 30px;
+    border-radius: 1000px;
+}
+.aboutme{
+    background-color: midnightblue;
+    color: white;
+    display: inline;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-top: 100px;
+}
+
+.jasin-desc{
+    border: solid;
+    border-color: midnightblue;
+    background-color: lavender;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.where-study{
+    text-align: center;
+    border: dotted;
+    border-color: midnightblue;
+    border-radius: 10px;
+    background-color: lavender;
+}
+.ukim{
+    padding-left: 60px;
+
+}
+.uni{
+    display: flex;
+    justify-content: space-between;
+}
+.univer{
+    padding-left: 120px;
+}
+.ukim-description{
+    font-size: medium;
+    padding-left: 40px;
+    border: dashed;
+    border-color: midnightblue;
+    background-color: lavender;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.arrow{
+    height: 250px;
+    position: absolute;
+    right: 750px;
+}
+.finki-part{
+    display: flex;
+    justify-content: space-evenly;
+    border: groove;
+    border-color: midnightblue;
+    border-width: 1px;
+    border-radius: 10px;
+
+}
+.finki-logo{
+    width: 400px;
+    height: 100px;
+    padding-left: 20px;
+
+}
+.finki-text{
+    padding-top: 10px;
+    text-align: right;
+    color: black;
+}
+.finki-title{
+    padding-top: 15px;
+    text-align: center;
+    padding-top: 250px;
+}
+.how-abt-hs{
+    border: dashed;
+    text-align: center;
+    border-color: midnightblue;
+    border-radius: 10px;
+}
+.mps-title{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mps-logo{
+    width: 150px;
+    height: 150px;
+    padding-right: 100px ;
+    padding-left: 200px;
+}
+.mps-name{
+    text-align: center;
+}
+.high-school{
+    border: groove;
+    border-width: 1px;
+    border-color: midnightblue;
+    display: inline-block;
+    border-radius: 10px;
+}
+.univer{
+    color: black;
+    text-decoration: none;
+}
+.sportandtravel{
+    background-color: midnightblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+    border: solid;
+    border-color: midnightblue;
+    border-radius: 10px;
+}
+.sportandtravel-text{
+    text-align: center;
+    border: solid;
+    border-width: 2px;
+    border-color: midnightblue;
+}
+.serbia{
+    display: flex;
+    justify-content: space-between;
+}
+.serbia-pic{
+    width: 450px;
+    height: 350px;
+
+}
+.serbia-serbia{
+    display: flex;
+
+    font-size: xxx-large;
+}
+.serbia-text{
+    border: solid;
+    border-radius: 10px;
+    padding : 10px 10px 10px 10px;
+    border-color: blue;
+    border-width: 2px;
+}
+.bulgaria-bulgaria{
+    display: flex;
+    font-size: xxx-large;
+
+}
+.bulgaria{
+    display: flex;
+}
+.bulgaria-pic{
+    width: 450px;
+    height: 350px;
+}
+.bulgaria-text{
+    border: solid;
+    border-color: green;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 20px 20px 0 20px;
+}
+.turkey-turkey{
+    display: flex;
+    font-size: xxx-large;
+}
+.turkey{
+    display: flex;
+}
+.turkey-text{
+    border: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 20px 20px 0 20px;
+
+}
+.albania{
+    display: flex;
+}
+.albania-albania{
+    display: flex;
+    font-size: xxx-large;
+    padding-right: 100px;
+}
+.albania-text{
+    border: solid;
+    border-color: red;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+.albania-pic{
+    width: 550px;
+    height: 450px;
+}
+.kosovo{
+    display: flex;
+    justify-content: space-between;
+}
+.kosovo-kosovo{
+    display: flex;
+    font-size: xxx-large;
+    padding-right: 50px;
+}
+.kosovo-pic{
+    width: 350px;
+    height: 250px;
+    padding-right: 50px;
+}
+.kosovo-text{
+    border: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: yellow;
+    padding: 20px 20px 20px 20px;
+}
+.montenegro-montenegro{
+    display: flex;
+    font-size: xxx-large;
+}
+.montenegro{
+    display: flex;
+}
+.montengero-text{
+    border: solid;
+    border-color: red;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+
+}
+.montenegro-pic{
+    width: 450px;
+    height: 350px;
+}
+.bosnia-bosnia{
+    display: flex;
+    font-size: xxx-large;
+}
+.bosnia{
+    display: flex;
+}
+.bosnia-text{
+    border: solid;
+    border-color: blue;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+.croatia-croatia{
+    display: flex;
+    font-size: xxx-large;
+}
+.croatia{
+    display: flex;
+}
+.croatia-text{
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: red;
+    padding: 20px 20px 20px 20px;
+}
+.my-fav{
+    border: solid;
+    border-radius: 10px;
+    border-color: midnightblue;
+    background-color: lavender;
+    padding-left: 40px;
+}
+.sarajevo-sarajevo{
+    font-size: xxx-large;
+    text-align: center;
+}
+.jasin-sarajevo{
+    width: 350px;
+    height: 350px;
+}
+.sarajevo-cathedral{
+    height: 350px;
+    width: 500px;
+}
+.sarajevo-fire{
+    height: 350px;
+    width: 480px;
+}
+.sarajevo-pics{
+    display: flex;
+}
+.all-rights{
+    text-align: center;
+    border: solid;
+    border-color: midnightblue;
+    background-color: midnightblue;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.contact-on{
+    display: flex;
+    justify-content: space-evenly;
+    border: solid;
+    border-radius: 10px;
+    border-color: midnightblue;
+    background-color: lavender;
+}
+footer{
+    padding-top: 5%;
+}
+
+
